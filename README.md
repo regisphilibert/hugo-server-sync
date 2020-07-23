@@ -1,0 +1,1 @@
+Sample repo for https://github.com/gohugoio/hugo/issues/{issue_nbr}

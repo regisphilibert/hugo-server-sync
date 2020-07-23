@@ -1,0 +1,9 @@
+{{ define "main" }}
+  This is the blog!
+
+  {{ range .Pages }}
+    <div>
+      {{ .Title }}
+    </div>
+  {{ end }}
+{{ end }}

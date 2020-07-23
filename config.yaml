@@ -1,0 +1,6 @@
+baseURL: 'https://rp.example.com/'
+languageCode: en-us
+title: Debug
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
